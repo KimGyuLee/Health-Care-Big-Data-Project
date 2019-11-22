@@ -7,7 +7,14 @@
 * health_data.csv : [국가건강검진](https://www.data.go.kr/dataset/15007122/fileData.do) 개인 건강검진 결과 데이터 중 7만 건 랜덤추출
 * cell_img.csv : 악성/양성종양 세포 MRI 이미지 데이터
 * hospital_basic_info.csv : 전국 시도별 병원 위치 정보 데이터
-* hospital_medical_sub_spec.csv : 병원 진료 과목 정보 데이터
+* hospital_medical_sub_spec.csv : 병원 진료 과목 정보 데이터  
+
+##### 데이터 분석 환경
+
+
+##### 중증질환(암, 심뇌혈관질환) 예측 모델 도출 과정
+
+
 
 ##### 진행 과정
 
@@ -26,7 +33,9 @@
 |19/11/14|THUR|최종 PPT 완성|
 |19/11/15|FRI|최종 발표|
 
+
 ##### Reference
+
 |제목|출처|비고|
 |-----|-------|------|
 |[국가건강검진 건강위험평가 개선](#국가건강검진-건강위험평가-참고-페이지)|질병관리본부|health_data 변수 전처리 참고, 심뇌혈관질환 위험도 계산|
