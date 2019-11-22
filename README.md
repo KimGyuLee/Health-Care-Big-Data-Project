@@ -32,8 +32,8 @@
 |[국가건강검진 건강위험평가 개선](#국가건강검진-건강위험평가-참고-페이지)|질병관리본부|health_data 변수 전처리 참고, 심뇌혈관질환 위험도 계산|
 |국가중점 개방데이터(건강검진정보) 사용자 매뉴얼(ver 4.0)|국민건강보험공단 빅데이터운영실|변수 파악|
 |[대한진단검사학회](https://labtestsonline.kr/)|대한검사의학회|각 질병 진단 기준을 파악하여 파생변수 생성|
-|[라이프시맨틱스](https://lifesemantics.kr/intro/company)|데이터 분석 후 개선안 수립 시 참조|
-|[메트라이프](http://insu.greenpio.com/MetLife360health/)|데이터 분석 후 개선안 수립 시 참조|
+|[라이프시맨틱스](https://lifesemantics.kr/intro/company)|-|데이터 분석 후 개선안 수립 시 참조|
+|[메트라이프](http://insu.greenpio.com/MetLife360health/)|-|데이터 분석 후 개선안 수립 시 참조|
 |직장에서의 뇌·심혈관계질환 예방을 위한 발병위험도 평가 및 사후관리지침|한국산업안전보건공단|심뇌혈관질환 예측 모델을 만들기 위해 참고|
 |[일반적으로 잘 알려져 있는 심혈관질환의 위험인자](https://www.circulation.or.kr:4443/bbs/index.php?code=int&category=&gubun=&page=1&number=6896&mode=view&keyfield=all&key=)|대한심장학회|중증질환의 주요 위험인자인 대사증후군 진단 기준 참고| 
 
