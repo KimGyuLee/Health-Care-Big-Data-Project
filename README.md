@@ -1,13 +1,13 @@
 # Health-Care-Big-Data-Project 
 #### Data : 19/11/04 ~ 19/11/15
 #### POSCO AI BIG DATA ACADEMY
-#### Author : 박규동, 공은비, 김규리, 김송일, 박병수, 이수진
+#### Author : 박규동, [공은비](github.com/eunbikong), 김규리, 김송일, 박병수, [이수진](github.com/sooooojinlee)
 #### Title : 중증질환 위험도 예측 모델 개발 및 위험도 수준을 고려한 맞춤 서비스 제공으로 헬스케어 시장 선점
 #### Data set
-* health_data.csv
-* cell_img
-* hospital_basic_info
-* hospital_medical_sub_spec
+* health_data.csv : [국가건강검진]()개인 건강검진 결과 데이터 중 7만 건 랜덤추출
+* cell_img.csv : 악성/양성종양 세포 MRI 이미지 데이터
+* hospital_basic_info.csv : 
+* hospital_medical_sub_spec.csv :
 
 ##### Reference
 |제목|출처|비고|
@@ -32,4 +32,3 @@ p.219 스마트 헬스케어 분야 활용
 p.222 변수 재정리  
 p.231 건강위험요인 알아보기 평가기준  
 p.233 로직계산 예시  
-dd
