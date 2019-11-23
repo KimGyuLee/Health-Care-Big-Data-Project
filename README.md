@@ -3,21 +3,21 @@
 
 Intro
 -------------------------------
-* Organization : POSCO AI BIG DATA ACADEMY
-* Industry : Health
-* Project Title : 중증질환 위험도 예측 모델 개발 및 위험도 수준을 고려한 맞춤 서비스 제공으로 헬스케어 시장 선점
-* Project Description : 2017년 기준 건강검진 수검자의 기본정보(성, 연령대, 시도코드 등)와 검진내역(신장, 콜레스테롤, 혈색소 등) 데이터를 활용한 중증질환 발병 위험수준 예측 및 개선안 도출
-* Author(s) : 박규동, [공은비](https://github.com/barha-star), 김규리, 김송일, 박병수, [이수진](https://github.com/sooooojinlee)
-* Date : 19/11/04 ~ 19/11/15  
+* **Organization** : POSCO AI BIG DATA ACADEMY
+* **Industry** : Health
+* **Project Title** : 중증질환 위험도 예측 모델 개발 및 위험도 수준을 고려한 맞춤 서비스 제공으로 헬스케어 시장 선점
+* **Project Description** : 2017년 기준 건강검진 수검자의 기본정보(성, 연령대, 시도코드 등)와 검진내역(신장, 콜레스테롤, 혈색소 등) 데이터를 활용한 중증질환 발병 위험수준 예측 및 개선안 도출
+* **Author(s)** : 박규동, [공은비](https://github.com/barha-star), 김규리, 김송일, 박병수, [이수진](https://github.com/sooooojinlee)
+* **Date** : 19/11/04 ~ 19/11/15  
 
 
 
 The Data
 -------------------------------
- * health_data.csv : [국가건강검진정보](https://www.data.go.kr/dataset/15007122/fileData.do) 개인 건강검진 결과 데이터 100만 건 중 7만 건 랜덤추출
- * cell_img.csv : 악성/양성종양 세포 MRI 이미지 데이터
- * hospital_basic_info.csv : 전국 시도별 병원 위치 정보 데이터
- * hospital_medical_sub_spec.csv : 병원 진료 과목 정보 데이터  
+ * **health_data.csv** : [국가건강검진정보](https://www.data.go.kr/dataset/15007122/fileData.do) 개인 건강검진 결과 데이터 100만 건 중 7만 건 랜덤추출
+ * **cell_img.csv** : 악성/양성종양 세포 MRI 이미지 데이터
+ * **hospital_basic_info.csv** : 전국 시도별 병원 위치 정보 데이터
+ * **hospital_medical_sub_spec.csv** : 병원 진료 과목 정보 데이터  
 
 
 Tools
@@ -64,14 +64,14 @@ Reference
 APPENDIX
 ----------------------------------------------
 #### 국가건강검진 건강위험평가 개선 참고 페이지  
-p.37~64 예측 모형에 대한 설명  
-p.82 기존 예측 모형  
-p.100 생활습관 요인 정의  
-p.109 수검여부에 따른 건강위험요인 변화여부 비교    
-p.127 (p.144, p.221) HRA 로직 수정 및 시범 적용  
-p.204 서비스 예시  
-p.216 결론 및 발전방향  
-p.219 스마트 헬스케어 분야 활용  
-p.222 변수 재정리  
-p.231 건강위험요인 알아보기 평가기준  
-p.233 로직계산 예시  
+**p.37~64** 예측 모형에 대한 설명  
+**p.82** 기존 예측 모형  
+**p.100** 생활습관 요인 정의  
+**p.109** 수검여부에 따른 건강위험요인 변화여부 비교    
+**p.127** (p.144, p.221) HRA 로직 수정 및 시범 적용  
+**p.204** 서비스 예시  
+**p.216** 결론 및 발전방향  
+**p.219** 스마트 헬스케어 분야 활용  
+**p.222** 변수 재정리  
+**p.231** 건강위험요인 알아보기 평가기준  
+**p.233** 로직계산 예시  
