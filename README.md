@@ -1,19 +1,20 @@
 # Health-Care-Big-Data-Project
 ![banner img](https://user-images.githubusercontent.com/58073455/69472331-23a9e080-0dec-11ea-9985-3711c1ae9f65.jpg)
 
-개요
+Intro
 -------------------------------
-* Date : 19/11/04 ~ 19/11/15
-* POSCO AI BIG DATA ACADEMY
-* Author : 박규동, [공은비](https://github.com/barha-star), 김규리, 김송일, 박병수, [이수진](https://github.com/sooooojinlee)
-* Title : 중증질환 위험도 예측 모델 개발 및 위험도 수준을 고려한 맞춤 서비스 제공으로 헬스케어 시장 선점  
+* Organization : POSCO AI BIG DATA ACADEMY
+* Industry : Health
+* Project Title : 중증질환 위험도 예측 모델 개발 및 위험도 수준을 고려한 맞춤 서비스 제공으로 헬스케어 시장 선점
+* Project Description : 2017년 기준 건강검진 수검자의 기본정보(성, 연령대, 시도코드 등)와 검진내역(신장, 콜레스테롤, 혈색소 등) 데이터를 활용한 중증질환 발병 위험수준 예측 및 개선안 도출
+* Author(s) : 박규동, [공은비](https://github.com/barha-star), 김규리, 김송일, 박병수, [이수진](https://github.com/sooooojinlee)
+* Date : 19/11/04 ~ 19/11/15  
 
 
 
-분석 과정
+Data Set
 -------------------------------
-#### Data set
- * health_data.csv : [국가건강검진정보](https://www.data.go.kr/dataset/15007122/fileData.do) 개인 건강검진 결과 데이터 중 7만 건 랜덤추출
+ * health_data.csv : [국가건강검진정보](https://www.data.go.kr/dataset/15007122/fileData.do) 개인 건강검진 결과 데이터 100만 건 중 7만 건 랜덤추출
  * cell_img.csv : 악성/양성종양 세포 MRI 이미지 데이터
  * hospital_basic_info.csv : 전국 시도별 병원 위치 정보 데이터
  * hospital_medical_sub_spec.csv : 병원 진료 과목 정보 데이터  
