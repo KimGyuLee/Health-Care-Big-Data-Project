@@ -38,7 +38,8 @@ Timeline
 
 An Analysis
 -------------------------------
-#### [Data Preprocessing & Exploration]()  
+#### [Data Preprocessing]()
+#### [Data Exploration]()
 #### [Modeling & Evaluating model performance]()
 #### [Web]()
 #### [Project Portfolio]()
