@@ -43,9 +43,7 @@ Timeline
 
 An Analysis
 -------------------------------
-* **The Data**
-* **EDA**
-* **Modeling**
+
 
 
 Reference
