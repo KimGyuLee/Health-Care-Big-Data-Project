@@ -1,7 +1,7 @@
 # Health-Care-Big-Data-Project
 ![banner img](https://user-images.githubusercontent.com/58073455/69472331-23a9e080-0dec-11ea-9985-3711c1ae9f65.jpg)
 
-Summary
+Overview
 -------------------------------
 * **Organization** : POSCO AI BIG DATA ACADEMY
 * **Industry** : Health
@@ -24,7 +24,7 @@ Tools
 -------------------------------
 
 
-Timeline (19/11/04~19/11/15)
+Timeline
 -------------------------------
 |일자|요일|진행 상황|
 |:-----:|:-----:|:------|
