@@ -38,7 +38,8 @@ Timeline
 
 An Analysis
 -------------------------------
-### [veiw code]()  
+### [Data Preprocessing & Exploration]()  
+### [Modeling & Evaluating model performance]()
 
 
 Reference
