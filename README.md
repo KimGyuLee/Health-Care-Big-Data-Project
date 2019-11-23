@@ -3,10 +3,10 @@
 
 개요
 -------------------------------
-#### Date : 19/11/04 ~ 19/11/15
-#### POSCO AI BIG DATA ACADEMY
-#### Author : 박규동, [공은비](https://github.com/barha-star), 김규리, 김송일, 박병수, [이수진](https://github.com/sooooojinlee)
-#### Title : 중증질환 위험도 예측 모델 개발 및 위험도 수준을 고려한 맞춤 서비스 제공으로 헬스케어 시장 선점
+#### * Date : 19/11/04 ~ 19/11/15
+#### * POSCO AI BIG DATA ACADEMY
+#### * Author : 박규동, [공은비](https://github.com/barha-star), 김규리, 김송일, 박병수, [이수진](https://github.com/sooooojinlee)
+#### * Title : 중증질환 위험도 예측 모델 개발 및 위험도 수준을 고려한 맞춤 서비스 제공으로 헬스케어 시장 선점
 ------------------------------------------------------------------------------------------------------------------------------
 #### Data set
 * health_data.csv : [국가건강검진정보](https://www.data.go.kr/dataset/15007122/fileData.do) 개인 건강검진 결과 데이터 중 7만 건 랜덤추출
