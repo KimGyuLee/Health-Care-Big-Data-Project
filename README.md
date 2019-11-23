@@ -1,7 +1,7 @@
 # Health-Care-Big-Data-Project
 ![banner img](https://user-images.githubusercontent.com/58073455/69472331-23a9e080-0dec-11ea-9985-3711c1ae9f65.jpg)
 
-Intro
+Summary
 -------------------------------
 * **Organization** : POSCO AI BIG DATA ACADEMY
 * **Industry** : Health
