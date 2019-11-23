@@ -16,9 +16,9 @@
  * cell_img.csv : 악성/양성종양 세포 MRI 이미지 데이터
  * hospital_basic_info.csv : 전국 시도별 병원 위치 정보 데이터
  * hospital_medical_sub_spec.csv : 병원 진료 과목 정보 데이터  
-
+#
 ##### 데이터 분석 환경  
-
+#
 
 ##### 진행 과정 (19/11/04~19/11/15)
 
@@ -39,7 +39,7 @@
 
 
 ##### 중증질환(암, 심뇌혈관질환) 예측 모델 도출 과정  
-
+#
 
 
 Reference
@@ -53,7 +53,7 @@ Reference
 |[메트라이프](http://insu.greenpio.com/MetLife360health/)|메트라이프|데이터 분석 후 개선안 수립 시 참조|
 |직장에서의 뇌·심혈관계질환 예방을 위한 발병위험도 평가 및 사후관리지침|한국산업안전보건공단|심뇌혈관질환 예측 모델을 만들기 위해 참고|
 |[일반적으로 잘 알려져 있는 심혈관질환의 위험인자](https://www.circulation.or.kr:4443/bbs/index.php?code=int&category=&gubun=&page=1&number=6896&mode=view&keyfield=all&key=)|대한심장학회|중증질환의 주요 위험인자인 대사증후군 진단 기준 참고|  
-
+#
 APPENDIX
 ----------------------------------------------
 #### 국가건강검진 건강위험평가 개선 참고 페이지  
