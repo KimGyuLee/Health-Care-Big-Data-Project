@@ -1,4 +1,5 @@
 # Health-Care-Big-Data-Project
+![banner img](https://user-images.githubusercontent.com/58073455/69472331-23a9e080-0dec-11ea-9985-3711c1ae9f65.jpg)
 #### Date : 19/11/04 ~ 19/11/15
 #### POSCO AI BIG DATA ACADEMY
 #### Author : 박규동, [공은비](https://github.com/barha-star), 김규리, 김송일, 박병수, [이수진](https://github.com/sooooojinlee)
