@@ -11,7 +11,7 @@ Overview
 
 
 
-The Data
+Data Set
 -------------------------------
  * **health_data.csv** : [국가건강검진정보](https://www.data.go.kr/dataset/15007122/fileData.do) 개인 건강검진 결과 데이터 100만 건 중 7만 건 랜덤추출
  * **cell_img.csv** : 악성/양성종양 세포 MRI 이미지 데이터
@@ -43,7 +43,9 @@ Timeline
 
 An Analysis
 -------------------------------
-
+* **The Data
+* **EDA**
+* **Modeling**
 
 
 Reference
