@@ -36,7 +36,7 @@ Timeline
 |19/11/15|fri|최종 발표|  
 
 
-Notebooks and Analyses
+Notebooks and Analysis
 -------------------------------
 The project includes the following notebooks (data manipulation and analyses):  
 
