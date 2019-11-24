@@ -36,13 +36,15 @@ Timeline
 |19/11/15|FRI|최종 발표|  
 
 
-An Analysis
+Notebooks and Analyses
 -------------------------------
-#### [Data Preprocessing](https://nbviewer.jupyter.org/gist/KimGyuLee/4e56fcde418f0664e4d1c143868ec3bd)
-#### [Data Exploration]()
-#### [Modeling & Evaluating model performance]()
-#### [Web]()
-#### [Project Portfolio]()
+The project includes the following notebooks (data manipulation and analyses):  
+
+#### * [Data Preprocessing](https://nbviewer.jupyter.org/gist/KimGyuLee/4e56fcde418f0664e4d1c143868ec3bd)
+#### * [Data Exploration]()
+#### * [Modeling & Evaluating model performance]()
+#### * [Web]()
+#### * [Project Portfolio]()
 
 Reference
 ----------------------------------------------
