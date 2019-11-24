@@ -48,6 +48,15 @@ The project includes the following notebooks (data manipulation and analyses):
 
 It is recommended to view the notebooks in the above order to avoid missing out on code explainations.
 
+Tech
+-------------------------------
+The following technologies were used for this part of the project:
+
+* Python 3
+* iPython Notebooks: For interactive code development and result presentation.
+* Pandas: Python package for data analysis.
+* Matplotlib and Seaborn: Python 2D plotting library.
+
 Reference
 ----------------------------------------------
 |#|title|source|note|
