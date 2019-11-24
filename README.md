@@ -43,7 +43,7 @@ The project includes the following notebooks (data manipulation and analyses):
 * #### [Data Preprocessing](https://nbviewer.jupyter.org/gist/KimGyuLee/30aca84f405bb5ddc81a522b6fda84df)
 * #### [Data Exploration](https://nbviewer.jupyter.org/gist/KimGyuLee/7b82eef34c3756d2d0144557204a4e91)
 * #### [Modeling & Evaluating model performance (1)-대사증후군]()
-* #### [Modeling & Evaluating model performance (2)-심혈관질환]()
+* #### [Modeling & Evaluating model performance (2)-심혈관질환](https://nbviewer.jupyter.org/gist/KimGyuLee/325028ce0612728111bdb7641596e04b)
 * #### [Modeling & Evaluating model performance (3)-암]()
 * #### [Web]()
 * #### [Project Portfolio]()
