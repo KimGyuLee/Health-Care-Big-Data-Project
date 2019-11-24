@@ -38,7 +38,7 @@ Timeline
 
 An Analysis
 -------------------------------
-#### [Data Preprocessing]()
+#### [Data Preprocessing](https://nbviewer.jupyter.org/gist/KimGyuLee/4e56fcde418f0664e4d1c143868ec3bd)
 #### [Data Exploration]()
 #### [Modeling & Evaluating model performance]()
 #### [Web]()
