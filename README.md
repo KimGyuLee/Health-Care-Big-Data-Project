@@ -41,7 +41,7 @@ Notebooks and Analyses
 The project includes the following notebooks (data manipulation and analyses):  
 
 * #### [Data Preprocessing](https://nbviewer.jupyter.org/gist/KimGyuLee/30aca84f405bb5ddc81a522b6fda84df)
-* #### [Data Exploration](https://nbviewer.jupyter.org/gist/KimGyuLee/006b4f4f4a4e3d03676e43c374b9a671)
+* #### [Data Exploration](https://nbviewer.jupyter.org/gist/KimGyuLee/7b82eef34c3756d2d0144557204a4e91)
 * #### [Modeling & Evaluating model performance]()
 * #### [Web]()
 * #### [Project Portfolio]()
