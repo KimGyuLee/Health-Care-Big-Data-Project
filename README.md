@@ -46,7 +46,7 @@ The project includes the following notebooks (data manipulation and analysis):
 * #### [Modeling & Evaluating model performance (2)-심혈관질환](https://nbviewer.jupyter.org/gist/KimGyuLee/325028ce0612728111bdb7641596e04b)
 * #### [Modeling & Evaluating model performance (3)-암](https://nbviewer.jupyter.org/gist/KimGyuLee/c4b3a29ff479431cf69f809db372046e)
 * #### [Web]()
-* #### [Project Portfolio]()
+* #### [Project Portfolio](https://nbviewer.jupyter.org/github/KimGyuLee/Health-Care-Big-Data-Project/blob/master/healthcare_project.pdf)
 
 It is recommended to view the notebooks in the above order to avoid missing out on code explainations.
 
