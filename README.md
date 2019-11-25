@@ -12,7 +12,7 @@ Overview
 
 Dataset
 -------------------------------
- * **health_data.csv** : [국가건강검진정보](https://www.data.go.kr/dataset/15007122/fileData.do) 개인 건강검진 결과 데이터 100만 건 중 7만 건 랜덤추출
+ * **health_data.csv** : [국가건강검진정보](https://www.data.go.kr/dataset/15007122/fileData.do) 개인 건강검진 결과 데이터 100만 건 중 7만 건 랜덤 추출
  * **cell_img.csv** : 악성/양성종양 세포 MRI 이미지 데이터
  * **hospital_basic_info.csv** : 전국 시도별 병원 위치 정보 데이터
  * **hospital_medical_sub_spec.csv** : 병원 진료 과목 정보 데이터  
@@ -38,7 +38,7 @@ Timeline
 
 Notebooks and Analysis
 -------------------------------
-The project includes the following notebooks (data manipulation and analyses):  
+The project includes the following notebooks (data manipulation and analysis):  
 
 * #### [Data Preprocessing](https://nbviewer.jupyter.org/gist/KimGyuLee/30aca84f405bb5ddc81a522b6fda84df)
 * #### [Data Exploration](https://nbviewer.jupyter.org/gist/KimGyuLee/c370b6d1c85167bcd1cda85789603f05)
